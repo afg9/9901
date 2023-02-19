@@ -1,3 +1,3 @@
-- 👋 Hi, I’m seyer
+- 👋 Hi, I’m afg
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ 
